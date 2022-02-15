@@ -1,7 +1,7 @@
 # MyProgress
-== Progress on Learn Github in Dicoding
+==Progress on Learn Github in Dicoding
 
--- February 15 2022
+--February 15 2022
 
 * Branch = cabang dari sebuah repo untuk membuat alur baru seperti pembuatan fitur, penyelesaian masalah, atau pekerjaan lainnya
 * Checkout = perintah untuk kembali ke posisi atau berpindah ke branch tertentu
